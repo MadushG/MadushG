@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm MadushG</h1>
+<h1 align="center">Hi 👋, I'm Madush Gihan Perera </h1>
 <h3 align="center">I am undergraduate Student</h3>
-<table border ="0">
+<table border ="0" border color="#78ff00">
   <tr>
     <td>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madushg&label=Profile%20views&color=0e75b6&style=flat" alt="madushg" /> </p>
