@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm MadushG</h1>
 <h3 align="center">I am undergraduate Student</h3>
+<img src="https://www.freepik.com/free-ai-image/portrait-man-christmas-celebrations_81402331.htm#fromView=search&page=1&position=15&uuid=dbafcd46-68ac-45fd-b01c-fbb893c81221"></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madushg&label=Profile%20views&color=0e75b6&style=flat" alt="madushg" /> </p>
 
