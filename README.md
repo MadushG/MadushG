@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm MadushG</h1>
 <h3 align="center">I am undergraduate Student</h3>
-<img src="https://img.freepik.com/free-photo/portrait-man-christmas-celebrations_23-2150936477.jpg?t=st=1731599239~exp=1731602839~hmac=597ac310600ed009389f75c3592fdb2a949528734376beb3d5d18d76d62eafea&w=360"></img>
+<img src="https://img.freepik.com/free-photo/portrait-man-christmas-celebrations_23-2150936477.jpg?t=st=1731599239~exp=1731602839~hmac=597ac310600ed009389f75c3592fdb2a949528734376beb3d5d18d76d62eafea&w=360](https://img.freepik.com/free-photo/3d-render-little-boy-with-laptop-tools_1057-44642.jpg?t=st=1731599406~exp=1731603006~hmac=7cd36d97e47a8ebb9d7f8d3b38a368d70e4eaa0b7ea9cc8466ba80bb00b7d426&w=740"></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madushg&label=Profile%20views&color=0e75b6&style=flat" alt="madushg" /> </p>
 
